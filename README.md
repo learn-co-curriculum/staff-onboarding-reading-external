@@ -9,3 +9,5 @@
 - Read about our various **[course offerings](http://flatironschool.com/courses)** on our website.
 
 - Check out our **[careers page](http://flatironschool.com/careers)** to see what roles we are hiring for; talk to Mike Linshi if you have any questions about the hiring plan, or if you have any referrals (we have an employee referral bonus)!
+
+<a href='https://learn.co/lessons/staff-onboarding-reading-external' data-visibility='hidden'>View this lesson on Learn.co</a>

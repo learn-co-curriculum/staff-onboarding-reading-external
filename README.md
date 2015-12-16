@@ -8,6 +8,8 @@
 
 - Read about our various **[course offerings](http://flatironschool.com/courses)** on our website.
 
+- Sign up for a [Quora](quora.com) account and [read all of the answers we've written](https://docs.google.com/spreadsheets/d/1EXm6btk0hfXvMXuN9geTmT4eZd1TKSTBJUABH_fLY4k/edit#gid=0) in response to questions about programming!
+
 - Check out our **[careers page](http://flatironschool.com/careers)** to see what roles we are hiring for. Talk to Kristi Riordan and/or Lesley Bearg if you have any questions about the hiring plan, or if you have any referrals (we have an employee referral bonus)!
 
 <a href='https://learn.co/lessons/staff-onboarding-reading-external' data-visibility='hidden'>View this lesson on Learn.co</a>

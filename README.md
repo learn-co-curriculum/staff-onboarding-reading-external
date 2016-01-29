@@ -12,4 +12,4 @@
 
 - Check out our **[careers page](http://flatironschool.com/careers)** to see what roles we are hiring for. Talk to Kristi Riordan and/or Lesley Bearg if you have any questions about the hiring plan, or if you have any referrals (we have an employee referral bonus)!
 
-<a href='https://learn.co/lessons/staff-onboarding-reading-external' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/staff-onboarding-reading-external' title='Here are some external-facing readings (~1-3 hours)'>Here are some external-facing readings (~1-3 hours)</a> on Learn.co and start learning to code for free.</p>
